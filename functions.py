@@ -6,3 +6,7 @@ def my_function():
     print(now)
 my_function()
 my_function()
+# add function
+def add(a,b):
+    return a+b
+print(add(1,2))
