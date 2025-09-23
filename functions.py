@@ -5,3 +5,4 @@ def my_function():
     now = datetime.now()
     print(now)
 my_function()
+my_function()
