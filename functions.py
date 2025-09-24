@@ -70,6 +70,3 @@ print("Car two properties: ", car2.describe())
 car3 = Car("Volvo", 2024, 550)
 print("Car three properties: ", car3.describe())
 
-
-
-#return f"{self.make} {self.year} {self.horsepower}"
